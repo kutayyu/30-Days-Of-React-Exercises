@@ -1,0 +1,12 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "This folder has solutions to the exercises that are provided in 30-Days-Of-React repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
